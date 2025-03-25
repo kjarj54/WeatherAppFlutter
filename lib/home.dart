@@ -64,7 +64,7 @@ class _HomeScreenState extends State<HomeScreen> {
         title: const Text('Weather App'),
         backgroundColor: Colors.blue[700],
       ),
-      body:SingleChildScrollView( // Add this wrapper
+      body:SingleChildScrollView(
       child: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Column(
