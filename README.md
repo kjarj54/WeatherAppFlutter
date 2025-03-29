@@ -14,12 +14,7 @@ WeatherAppFlutter is a cross-platform mobile application built using Flutter. It
 
 - **Flutter**: For building the cross-platform mobile application
 - **Dart**: Programming language used in Flutter
-- **C++**: For performance-critical components
-- **CMake**: For managing the build process
-- **Swift**: For iOS-specific implementations
-- **C**: For low-level system components
-- **HTML**: For web-related components
-
+- 
 ## Getting Started
 
 ### Prerequisites
